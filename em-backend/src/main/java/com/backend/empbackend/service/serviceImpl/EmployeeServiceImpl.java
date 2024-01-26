@@ -1,4 +1,4 @@
-package com.backend.embackend.service.serviceImpl;
+package com.backend.empbackend.service.serviceImpl;
 
 import java.util.HashMap;
 import java.util.List;
@@ -7,10 +7,10 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.backend.embackend.dao.EmployeeDao;
-import com.backend.embackend.model.Employee;
-import com.backend.embackend.model.EmployeeInput;
-import com.backend.embackend.service.EmployeeService;
+import com.backend.empbackend.dao.EmployeeDao;
+import com.backend.empbackend.model.Employee;
+import com.backend.empbackend.model.EmployeeInput;
+import com.backend.empbackend.service.EmployeeService;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService{

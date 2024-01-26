@@ -1,4 +1,4 @@
-package com.backend.embackend.model;
+package com.backend.empbackend.model;
 
 import lombok.Getter;
 import lombok.Setter;

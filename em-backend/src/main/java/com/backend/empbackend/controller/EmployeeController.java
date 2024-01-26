@@ -1,4 +1,4 @@
-package com.backend.embackend.controller;
+package com.backend.empbackend.controller;
 
 import java.util.List;
 import java.util.Map;
@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 
-import com.backend.embackend.model.Employee;
-import com.backend.embackend.model.EmployeeInput;
-import com.backend.embackend.service.EmployeeService;
+import com.backend.empbackend.model.Employee;
+import com.backend.empbackend.model.EmployeeInput;
+import com.backend.empbackend.service.EmployeeService;
 
 @RestController
 @RequestMapping("/Employee")

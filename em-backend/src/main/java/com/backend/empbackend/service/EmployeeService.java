@@ -1,10 +1,10 @@
-package com.backend.embackend.service;
+package com.backend.empbackend.service;
 
 import java.util.List;
 import java.util.Map;
 
-import com.backend.embackend.model.Employee;
-import com.backend.embackend.model.EmployeeInput;
+import com.backend.empbackend.model.Employee;
+import com.backend.empbackend.model.EmployeeInput;
 
 public interface EmployeeService {
 

@@ -1,13 +1,13 @@
-package com.backend.embackend;
+package com.backend.empbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmbackendApplication {
+public class EmpbackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmbackendApplication.class, args);
+		SpringApplication.run(EmpbackendApplication.class, args);
 	}
 
 }

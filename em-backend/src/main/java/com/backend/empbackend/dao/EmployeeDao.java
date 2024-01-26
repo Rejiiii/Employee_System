@@ -1,11 +1,11 @@
-package com.backend.embackend.dao;
+package com.backend.empbackend.dao;
 
 import java.util.List;
 
 import org.apache.ibatis.annotations.Mapper;
 
-import com.backend.embackend.model.Employee;
-import com.backend.embackend.model.EmployeeInput;
+import com.backend.empbackend.model.Employee;
+import com.backend.empbackend.model.EmployeeInput;
 
 @Mapper
 public interface EmployeeDao {

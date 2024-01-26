@@ -1,10 +1,10 @@
-package com.backend.embackend;
+package com.backend.empbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmbackendApplicationTests {
+class EmpbackendApplicationTests {
 
 	@Test
 	void contextLoads() {
